@@ -1,7 +1,5 @@
 {
-	"author": {
-		"name": "Dzmitryi Halyava"
-	},
+	"author": "Dzmitryi Halyava",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
